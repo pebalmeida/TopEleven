@@ -1,0 +1,46 @@
+body{
+    background-color: darkturquoise;
+    margin: 0;
+    padding: 0;
+}
+
+.subhub{
+    background-color: #cdc8b1;
+    color: lightblue;
+}
+
+.subhub:hover{
+    color: lawngreen;
+    font-size: 70px;
+}
+
+.tmt{
+    background-color: blueviolet;
+    color: red;
+    font-size: 34px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.tmt:hover{
+    color: darkorange;
+    font-size: 45px;
+}
+
+a{
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    color: #cdc8b1;
+    background-color:crimson ;
+    font-weight: bold;
+    
+}
+
+a:hover{
+    color: cornflowerblue;
+    transition: all 0.2s;
+    font-family: sans-serif;
+}
